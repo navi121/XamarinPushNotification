@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021214640199",
+    "project_id": "pushnotify-e793c",
+    "storage_bucket": "pushnotify-e793c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021214640199:android:3d32369dbe44855178c962",
+        "android_client_info": {
+          "package_name": "com.naveenapps.pushnotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021214640199-fitt555m5d9avr78bca5bf4tadoguo3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAUMipwwz2_fz1dFYA3UsRk2mY9V-FO9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021214640199-fitt555m5d9avr78bca5bf4tadoguo3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

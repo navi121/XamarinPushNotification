@@ -1,0 +1,13 @@
+C:\Users\navee\source\repos\PushNotifyPrism\PushNotifyPrism\PushNotifyPrism\bin\Debug\netstandard2.0\PushNotifyPrism.deps.json
+C:\Users\navee\source\repos\PushNotifyPrism\PushNotifyPrism\PushNotifyPrism\bin\Debug\netstandard2.0\PushNotifyPrism.dll
+C:\Users\navee\source\repos\PushNotifyPrism\PushNotifyPrism\PushNotifyPrism\bin\Debug\netstandard2.0\PushNotifyPrism.pdb
+C:\Users\navee\source\repos\PushNotifyPrism\PushNotifyPrism\PushNotifyPrism\obj\Debug\netstandard2.0\PushNotifyPrism.csproj.AssemblyReference.cache
+C:\Users\navee\source\repos\PushNotifyPrism\PushNotifyPrism\PushNotifyPrism\obj\Debug\netstandard2.0\PushNotifyPrism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navee\source\repos\PushNotifyPrism\PushNotifyPrism\PushNotifyPrism\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\navee\source\repos\PushNotifyPrism\PushNotifyPrism\PushNotifyPrism\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\navee\source\repos\PushNotifyPrism\PushNotifyPrism\PushNotifyPrism\obj\Debug\netstandard2.0\PushNotifyPrism.AssemblyInfoInputs.cache
+C:\Users\navee\source\repos\PushNotifyPrism\PushNotifyPrism\PushNotifyPrism\obj\Debug\netstandard2.0\PushNotifyPrism.AssemblyInfo.cs
+C:\Users\navee\source\repos\PushNotifyPrism\PushNotifyPrism\PushNotifyPrism\obj\Debug\netstandard2.0\PushNotifyPrism.csproj.CoreCompileInputs.cache
+C:\Users\navee\source\repos\PushNotifyPrism\PushNotifyPrism\PushNotifyPrism\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\navee\source\repos\PushNotifyPrism\PushNotifyPrism\PushNotifyPrism\obj\Debug\netstandard2.0\PushNotifyPrism.dll
+C:\Users\navee\source\repos\PushNotifyPrism\PushNotifyPrism\PushNotifyPrism\obj\Debug\netstandard2.0\PushNotifyPrism.pdb
